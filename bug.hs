@@ -1,0 +1,1 @@
+This code attempts to use the `sum` function on a list of Maybe Int values. However, `sum` expects a list of numbers, not a list of Maybe numbers.  This will result in a type error.
